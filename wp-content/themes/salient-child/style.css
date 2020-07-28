@@ -8,7 +8,73 @@ Template: salient
 Version: 1.0
 */
 
+.color-blanco{
+    color: #ffffff !important;
+}
 
+.orbit-wrapper .slide.orbit-slide.centered .post-title h2 span{
+    background: none !important;
+    font-size: 40px !important;
+    font-weight: 400 !important;
+    box-shadow: none !important;
+}
 
+.orbit-wrapper .slide.orbit-slide.left .post-title h2 span{
+    background: rgb(0 113 188 / .5) !important;
+    font-size: 32px !important;
+    font-weight: 400 !important;
+    box-shadow: 10px 0 0 rgb(0 113 188 / .5), -10px 0 0 rgb(0 113 188 / .5) !important; 
+}
 
+.orbit-wrapper .slide.orbit-slide.left .post-title a.uppercase{
+    background: rgb(255 255 255 / .75);
+    border-radius: 50px;
+    color: #0071bc !important;
+    padding: 10px 20px !important;
+    border: 2px solid #0071bc !important; 
+}
 
+.orbit-wrapper .slide.orbit-slide.left .post-title h2{
+    max-width: 650px !important;
+}
+
+body #featured article .post-title > a{
+    background-color: #ffffff !important;
+}
+
+@media only screen and (max-width: 690px){
+    .orbit-wrapper .slide.orbit-slide.centered .post-title h2 span{
+        background: none !important;
+        font-size: 28px !important;
+        font-weight: 400 !important;
+        box-shadow: none !important;
+    }
+    
+    .orbit-wrapper .slide.orbit-slide.left .post-title h2 span{
+        background: rgb(0 113 188 / .5) !important;
+        font-size: 18px !important;
+        font-weight: 400 !important;
+        box-shadow: 10px 0 0 rgb(0 113 188 / .5), -10px 0 0 rgb(0 113 188 / .5) !important; 
+    }
+    
+    .orbit-wrapper .slide.orbit-slide.left .post-title a.uppercase{
+        background: rgb(255 255 255 / .75);
+        border-radius: 50px;
+        color: #0071bc !important;
+        padding: 10px 20px !important;
+        border: 2px solid #0071bc !important; 
+    }
+    
+    body .orbit-wrapper #featured article .post-title h2{
+        max-width: 400px !important;
+    }
+
+    .orbit-wrapper #featured article .post-title h2 span{
+        line-height: 10px !important;
+    }
+    
+    body #featured article .post-title > a{
+        background-color: #ffffff !important;
+    }
+
+}
