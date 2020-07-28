@@ -8,6 +8,12 @@ Template: salient
 Version: 1.0
 */
 
+.center-content{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
 .color-blanco{
     color: #ffffff !important;
 }
@@ -77,4 +83,14 @@ body #featured article .post-title > a{
         background-color: #ffffff !important;
     }
 
+}
+
+
+.column-projects-home .carousel-outer .carousel-heading .container h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#contact-map{
+    margin-bottom: 0 !important;
 }
