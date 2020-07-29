@@ -1156,8 +1156,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		}
 		
 		.widget .nectar_widget[class*="nectar_blog_posts_"][data-style="hover-featured-image-gradient-and-counter"] > li a .popular-featured-img:after {
-		background: #3452ff; 
-		background: linear-gradient(to right, #3452ff, #ff1053); 
+		background: #b8fbff; 
+		background: linear-gradient(to right, #b8fbff, #0071bc); 
 	}.divider-small-border[data-color="extra-color-gradient-1"], 
 		.divider-border[data-color="extra-color-gradient-1"], 
 		.nectar-progress-bar .extra-color-gradient-1,
@@ -1166,14 +1166,14 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
     .wpb_row .nectar-post-grid-filters[data-active-color="extra-color-gradient-1"] a:after,
 		.nectar-recent-posts-single_featured.multiple_featured .controls[data-color="extra-color-gradient-1"] li:after, 
 		.nectar-fancy-box[data-style="default"][data-color="extra-color-gradient-1"]:after {
-			background: #ff1053; 
-		  background: linear-gradient(to right, #ff1053, #3452ff); 
+			background: #0071bc; 
+		  background: linear-gradient(to right, #0071bc, #b8fbff); 
 		}
     
     .nectar-scrolling-tabs[data-color-scheme="extra-color-gradient-1"] .scrolling-tab-nav .line,
     #ajax-content-wrap [data-stored-style="vs"] .tabbed[data-color-scheme="extra-color-gradient-1"] .wpb_tabs_nav li a:before {
-      background: #ff1053; 
-		  background: linear-gradient(to bottom, #ff1053, #3452ff); 
+      background: #0071bc; 
+		  background: linear-gradient(to bottom, #0071bc, #b8fbff); 
     }
 		
 		.icon-normal.extra-color-gradient-1, 
@@ -1190,45 +1190,45 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar_icon_wrap[data-style="soft-bg"][data-color="extra-color-gradient-1"] .nectar_icon:before,
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-gradient-1"] .nectar_icon:after,
     .nectar-post-grid-wrap[data-load-more-color="extra-color-gradient-1"] .load-more:before {
-			 background: #ff1053; 
-		   background: linear-gradient(to bottom right, #ff1053, #3452ff); 
+			 background: #0071bc; 
+		   background: linear-gradient(to bottom right, #0071bc, #b8fbff); 
 		}
 		
 		body.material .nectar-button.regular.m-extra-color-gradient-1, 
 		body.material .nectar-button.see-through.m-extra-color-gradient-1:before,
 		.swiper-slide .button.solid_color .extra-color-gradient-1, 
 		.swiper-slide .button.transparent_2 .extra-color-gradient-1:before {
-			 background: #ff1053; 
-		   background: linear-gradient(125deg, #ff1053, #3452ff);
+			 background: #0071bc; 
+		   background: linear-gradient(125deg, #0071bc, #b8fbff);
 		}
 		body.material .nectar-button.regular.m-extra-color-gradient-1:before {
-			 background: #3452ff; 
+			 background: #b8fbff; 
 		}
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-gradient-1"] ul:after { 
-			background-color: #3452ff;
+			background-color: #b8fbff;
 		}
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-gradient-1"] ul li .active-tab:after { 
-			box-shadow: 0px 18px 50px #3452ff; 
+			box-shadow: 0px 18px 50px #b8fbff; 
 		}
 		
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-gradient-1"]:before { 
-			box-shadow: 0px 30px 90px #3452ff; 
+			box-shadow: 0px 30px 90px #b8fbff; 
 		}
     
     .tabbed[data-style="minimal_flexible"][data-color-scheme="extra-color-gradient-1"] .wpb_tabs_nav > li a:before {
-      box-shadow: 0px 8px 22px #3452ff;
+      box-shadow: 0px 8px 22px #b8fbff;
     } 
     
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-gradient-1"] .nectar_icon:before {
-      box-shadow: 0px 15px 28px #3452ff; opacity: 0.3; 
+      box-shadow: 0px 15px 28px #b8fbff; opacity: 0.3; 
     }  
 		
 		
 		.testimonial_slider[data-rating-color="extra-color-gradient-1"] .star-rating .filled:before {
-			 color: #ff1053;
-			 background: linear-gradient(to right, #ff1053, #3452ff); 
+			 color: #0071bc;
+			 background: linear-gradient(to right, #0071bc, #b8fbff); 
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -1239,20 +1239,20 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.see-through-extra-color-gradient-1 {
 			 border-width: 3px;
 			 border-style: solid;
-		   -moz-border-image: -moz-linear-gradient(top right, #ff1053 0%, #3452ff 100%);
-		   -webkit-border-image: -webkit-linear-gradient(top right, #ff1053 0%,#3452ff 100%);
-		   border-image: linear-gradient(to bottom right, #ff1053 0%, #3452ff 100%);
+		   -moz-border-image: -moz-linear-gradient(top right, #0071bc 0%, #b8fbff 100%);
+		   -webkit-border-image: -webkit-linear-gradient(top right, #0071bc 0%,#b8fbff 100%);
+		   border-image: linear-gradient(to bottom right, #0071bc 0%, #b8fbff 100%);
 		   border-image-slice: 1;
 		}
 		
 		.nectar-gradient-text[data-color="extra-color-gradient-1"][data-direction="horizontal"] * { 
-			background-image: linear-gradient(to right, #ff1053, #3452ff);  
+			background-image: linear-gradient(to right, #0071bc, #b8fbff);  
 		}
 		
 		.nectar-gradient-text[data-color="extra-color-gradient-1"] *, 
 		.nectar-icon-list[data-icon-style="border"][data-icon-color="extra-color-gradient-1"] .list-icon-holder[data-icon_type="numerical"] span {
-			 color: #ff1053;
-			 background: linear-gradient(to bottom right, #ff1053, #3452ff); 
+			 color: #0071bc;
+			 background: linear-gradient(to bottom right, #0071bc, #b8fbff); 
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -1265,8 +1265,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		[class^="icon-"].extra-color-gradient-1:not(.icon-normal):before, 
 		[class*=" icon-"].extra-color-gradient-1:not(.icon-normal):before,
 		.nectar_icon_wrap[data-color="extra-color-gradient-1"]:not([data-style="shadow-bg"]) i {
-			  color: #ff1053;
-			  background: linear-gradient(to bottom right, #ff1053, #3452ff); 
+			  color: #0071bc;
+			  background: linear-gradient(to bottom right, #0071bc, #b8fbff); 
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -1275,8 +1275,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		}
 		.nectar-button.extra-color-gradient-1 .hover, 
 		.nectar-button.see-through-extra-color-gradient-1 .start {
-			  background: #ff1053; 
-			  background: linear-gradient(to bottom right, #ff1053, #3452ff); 
+			  background: #0071bc; 
+			  background: linear-gradient(to bottom right, #0071bc, #b8fbff); 
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -1287,7 +1287,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.extra-color-gradient-1.no-text-grad .hover, 
 		.nectar-button.see-through-extra-color-gradient-1.no-text-grad .start {
 			 background: transparent!important;
-			 color: #ff1053!important; 
+			 color: #0071bc!important; 
 		}.divider-small-border[data-color="extra-color-gradient-2"], 
 		.divider-border[data-color="extra-color-gradient-2"], 
 		.nectar-progress-bar .extra-color-gradient-2,
@@ -1296,14 +1296,14 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
     .wpb_row .nectar-post-grid-filters[data-active-color="extra-color-gradient-2"] a:after,
 		.nectar-recent-posts-single_featured.multiple_featured .controls[data-color="extra-color-gradient-2"] li:after, 
 		.nectar-fancy-box[data-style="default"][data-color="extra-color-gradient-2"]:after {
-			background: #32d6ff; 
-		  background: linear-gradient(to right, #32d6ff, #2AC4EA); 
+			background: #2ac4ea; 
+		  background: linear-gradient(to right, #2ac4ea, #0071bc); 
 		}
     
     .nectar-scrolling-tabs[data-color-scheme="extra-color-gradient-2"] .scrolling-tab-nav .line,
     #ajax-content-wrap [data-stored-style="vs"] .tabbed[data-color-scheme="extra-color-gradient-2"] .wpb_tabs_nav li a:before {
-      background: #32d6ff; 
-		  background: linear-gradient(to bottom, #32d6ff, #2AC4EA); 
+      background: #2ac4ea; 
+		  background: linear-gradient(to bottom, #2ac4ea, #0071bc); 
     }
 		
 		.icon-normal.extra-color-gradient-2, 
@@ -1320,45 +1320,45 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar_icon_wrap[data-style="soft-bg"][data-color="extra-color-gradient-2"] .nectar_icon:before,
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-gradient-2"] .nectar_icon:after,
     .nectar-post-grid-wrap[data-load-more-color="extra-color-gradient-2"] .load-more:before {
-			 background: #32d6ff; 
-		   background: linear-gradient(to bottom right, #32d6ff, #2AC4EA); 
+			 background: #2ac4ea; 
+		   background: linear-gradient(to bottom right, #2ac4ea, #0071bc); 
 		}
 		
 		body.material .nectar-button.regular.m-extra-color-gradient-2, 
 		body.material .nectar-button.see-through.m-extra-color-gradient-2:before,
 		.swiper-slide .button.solid_color .extra-color-gradient-2, 
 		.swiper-slide .button.transparent_2 .extra-color-gradient-2:before {
-			 background: #32d6ff; 
-		   background: linear-gradient(125deg, #32d6ff, #2AC4EA);
+			 background: #2ac4ea; 
+		   background: linear-gradient(125deg, #2ac4ea, #0071bc);
 		}
 		body.material .nectar-button.regular.m-extra-color-gradient-2:before {
-			 background: #2AC4EA; 
+			 background: #0071bc; 
 		}
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-gradient-2"] ul:after { 
-			background-color: #2AC4EA;
+			background-color: #0071bc;
 		}
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-gradient-2"] ul li .active-tab:after { 
-			box-shadow: 0px 18px 50px #2AC4EA; 
+			box-shadow: 0px 18px 50px #0071bc; 
 		}
 		
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-gradient-2"]:before { 
-			box-shadow: 0px 30px 90px #2AC4EA; 
+			box-shadow: 0px 30px 90px #0071bc; 
 		}
     
     .tabbed[data-style="minimal_flexible"][data-color-scheme="extra-color-gradient-2"] .wpb_tabs_nav > li a:before {
-      box-shadow: 0px 8px 22px #2AC4EA;
+      box-shadow: 0px 8px 22px #0071bc;
     } 
     
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-gradient-2"] .nectar_icon:before {
-      box-shadow: 0px 15px 28px #2AC4EA; opacity: 0.3; 
+      box-shadow: 0px 15px 28px #0071bc; opacity: 0.3; 
     }  
 		
 		
 		.testimonial_slider[data-rating-color="extra-color-gradient-2"] .star-rating .filled:before {
-			 color: #32d6ff;
-			 background: linear-gradient(to right, #32d6ff, #2AC4EA); 
+			 color: #2ac4ea;
+			 background: linear-gradient(to right, #2ac4ea, #0071bc); 
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -1369,20 +1369,20 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.see-through-extra-color-gradient-2 {
 			 border-width: 3px;
 			 border-style: solid;
-		   -moz-border-image: -moz-linear-gradient(top right, #32d6ff 0%, #2AC4EA 100%);
-		   -webkit-border-image: -webkit-linear-gradient(top right, #32d6ff 0%,#2AC4EA 100%);
-		   border-image: linear-gradient(to bottom right, #32d6ff 0%, #2AC4EA 100%);
+		   -moz-border-image: -moz-linear-gradient(top right, #2ac4ea 0%, #0071bc 100%);
+		   -webkit-border-image: -webkit-linear-gradient(top right, #2ac4ea 0%,#0071bc 100%);
+		   border-image: linear-gradient(to bottom right, #2ac4ea 0%, #0071bc 100%);
 		   border-image-slice: 1;
 		}
 		
 		.nectar-gradient-text[data-color="extra-color-gradient-2"][data-direction="horizontal"] * { 
-			background-image: linear-gradient(to right, #32d6ff, #2AC4EA);  
+			background-image: linear-gradient(to right, #2ac4ea, #0071bc);  
 		}
 		
 		.nectar-gradient-text[data-color="extra-color-gradient-2"] *, 
 		.nectar-icon-list[data-icon-style="border"][data-icon-color="extra-color-gradient-2"] .list-icon-holder[data-icon_type="numerical"] span {
-			 color: #32d6ff;
-			 background: linear-gradient(to bottom right, #32d6ff, #2AC4EA); 
+			 color: #2ac4ea;
+			 background: linear-gradient(to bottom right, #2ac4ea, #0071bc); 
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -1395,8 +1395,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		[class^="icon-"].extra-color-gradient-2:not(.icon-normal):before, 
 		[class*=" icon-"].extra-color-gradient-2:not(.icon-normal):before,
 		.nectar_icon_wrap[data-color="extra-color-gradient-2"]:not([data-style="shadow-bg"]) i {
-			  color: #32d6ff;
-			  background: linear-gradient(to bottom right, #32d6ff, #2AC4EA); 
+			  color: #2ac4ea;
+			  background: linear-gradient(to bottom right, #2ac4ea, #0071bc); 
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -1405,8 +1405,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		}
 		.nectar-button.extra-color-gradient-2 .hover, 
 		.nectar-button.see-through-extra-color-gradient-2 .start {
-			  background: #32d6ff; 
-			  background: linear-gradient(to bottom right, #32d6ff, #2AC4EA); 
+			  background: #2ac4ea; 
+			  background: linear-gradient(to bottom right, #2ac4ea, #0071bc); 
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -1417,7 +1417,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.extra-color-gradient-2.no-text-grad .hover, 
 		.nectar-button.see-through-extra-color-gradient-2.no-text-grad .start {
 			 background: transparent!important;
-			 color: #32d6ff!important; 
+			 color: #2ac4ea!important; 
 		}body #header-outer, 
 		body #search-outer, 
 		body.ascend #search-outer, 
@@ -1816,7 +1816,11 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		color:#4B4F52; 
 	}body #slide-out-widget-area-bg { 
 		background-color: rgba(0,0,0,0.8); 
-	}
+	}.single-post #page-header-bg[data-post-hs="default_minimal"] .page-header-bg-image:after { 
+     background-color: #2d2d2d;
+     opacity: 0.4; 
+   }
+   .single-post #page-header-bg[data-post-hs="default_minimal"] { background-color: #2d2d2d; }
 		  @media only screen and (min-width: 1000px) {
 
 				#header-outer[data-format="centered-menu-bottom-bar"] #top .span_9 #logo {  

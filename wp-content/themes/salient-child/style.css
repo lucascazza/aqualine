@@ -94,3 +94,39 @@ body #featured article .post-title > a{
 #contact-map{
     margin-bottom: 0 !important;
 }
+
+.carousel-empresa .vc_column-inner .nectar-flickity .flickity-viewport .flickity-slider .inner-wrap-outer .img-with-aniamtion-wrap .hover-wrap{
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+.button-rounded.nectar-button{
+    border-radius: 50px !important;
+}
+
+.row.blog-recent.columns-4{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.row.blog-recent.columns-4 .post .post-header.featured span.meta-category {
+    display: none !important;
+}
+
+.row.blog-recent.columns-4 .post .post-header.featured h3 {
+    font-size: 20px !important;
+}
+
+.display-none{
+    display: none !important;
+}
+
+.posts-container .masonry-blog-item .content-inner span.meta-category{
+    display: none !important;
+}
+.posts-container .masonry-blog-item .content-inner .article-content-wrap .grav-wrap{
+    margin-top: 0em;
+}
+.posts-container .masonry-blog-item .content-inner .article-content-wrap .post-header{
+    margin-bottom: 4px;
+}
