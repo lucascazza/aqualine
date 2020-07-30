@@ -130,3 +130,31 @@ body #featured article .post-title > a{
 .posts-container .masonry-blog-item .content-inner .article-content-wrap .post-header{
     margin-bottom: 4px;
 }
+
+
+
+/*NOVEDADES*/
+
+.row.heading-title.hentry{
+    margin-bottom: 0px;
+}
+
+.container.main-content .post-area.area-blog .inner-wrap .post-content .post-featured-img{
+    display: none !important;
+}
+
+.portfolio-items[data-ps="7"] .col .work-item.style-2, .portfolio-items[data-ps="8"] .col .work-item.style{
+    border-radius: 4px !important;
+}
+
+.row.heading-title.hentry .section-title.blog-title .meta-category{
+    display: none !important;
+}
+
+#single-below-header{
+    display: none !important;
+}
+
+.rounded-slide .flickity-viewport img{
+    border-radius: 4px !important;
+}

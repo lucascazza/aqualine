@@ -85,7 +85,7 @@ if ( true === $fullscreen_header ) {
 			
 			?>
 			
-			<div class="post-area col <?php echo esc_attr($std_minimal_class) . ' ' . esc_attr($single_post_area_col_class); ?>">
+			<div class="post-area area-blog col <?php echo esc_attr($std_minimal_class) . ' ' . esc_attr($single_post_area_col_class); ?>">
 			
 			<?php 
 			// Main content loop.
