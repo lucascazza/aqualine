@@ -158,3 +158,11 @@ body #featured article .post-title > a{
 .rounded-slide .flickity-viewport img{
     border-radius: 4px !important;
 }
+
+.container-wrap.no-sidebar{
+    padding-top: 0 !important;
+}
+
+.vc_column-inner{
+    padding-left: 0 !important;
+}
