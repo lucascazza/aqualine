@@ -25,14 +25,16 @@ Version: 1.0
     box-shadow: none !important;
 }
 
-.orbit-wrapper .slide.orbit-slide.left .post-title h2 span{
+.orbit-wrapper .slide.orbit-slide.left .post-title h2 span,
+.orbit-wrapper .slide.orbit-slide.right .post-title h2 span{
     background: rgb(0 113 188 / .5) !important;
     font-size: 32px !important;
     font-weight: 400 !important;
     box-shadow: 10px 0 0 rgb(0 113 188 / .5), -10px 0 0 rgb(0 113 188 / .5) !important; 
 }
 
-.orbit-wrapper .slide.orbit-slide.left .post-title a.uppercase{
+.orbit-wrapper .slide.orbit-slide.left .post-title a.uppercase,
+.orbit-wrapper .slide.orbit-slide.right .post-title a.uppercase{
     background: rgb(255 255 255 / .75);
     border-radius: 50px;
     color: #0071bc !important;
@@ -40,12 +42,17 @@ Version: 1.0
     border: 2px solid #0071bc !important; 
 }
 
-.orbit-wrapper .slide.orbit-slide.left .post-title h2{
+.orbit-wrapper .slide.orbit-slide.left .post-title h2,
+.orbit-wrapper .slide.orbit-slide.right .post-title h2{
     max-width: 650px !important;
 }
 
 body #featured article .post-title > a{
     background-color: #ffffff !important;
+}
+
+.orbit-wrapper .slide.orbit-slide.right article>.container{
+    padding-right: 10% !important;
 }
 
 @media only screen and (max-width: 690px){
@@ -56,14 +63,16 @@ body #featured article .post-title > a{
         box-shadow: none !important;
     }
     
-    .orbit-wrapper .slide.orbit-slide.left .post-title h2 span{
+    .orbit-wrapper .slide.orbit-slide.left .post-title h2 span,
+    .orbit-wrapper .slide.orbit-slide.right .post-title h2 span{
         background: rgb(0 113 188 / .5) !important;
         font-size: 18px !important;
         font-weight: 400 !important;
         box-shadow: 10px 0 0 rgb(0 113 188 / .5), -10px 0 0 rgb(0 113 188 / .5) !important; 
     }
     
-    .orbit-wrapper .slide.orbit-slide.left .post-title a.uppercase{
+    .orbit-wrapper .slide.orbit-slide.left .post-title a.uppercase,
+    .orbit-wrapper .slide.orbit-slide.right .post-title a.uppercase{
         background: rgb(255 255 255 / .75);
         border-radius: 50px;
         color: #0071bc !important;
