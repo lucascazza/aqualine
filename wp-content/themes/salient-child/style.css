@@ -175,3 +175,9 @@ body #featured article .post-title > a{
 .vc_column-inner{
     padding-left: 0 !important;
 }
+
+
+#copyright .container {
+    display: flex;
+    align-items: center;
+}
