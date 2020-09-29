@@ -2,20 +2,19 @@
 Contributors: Annubis
 Donate link: http://www.chefblogger.me
 Tags: whatsapp, button, share, chat, social media, contact, customer, online shop, woocommerce
-Version: 3.3.2
+Version: 3.3.3
 Requires at least: 4.0.1
-Tested up to: 5.3.2
-Stable tag: 5.3
+Tested up to: 5.5
+Stable tag: 5.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-
-### New in Simple Webchat V3.3
-NEW: You can set a Shortcode with a Button and a Link to your WhatsApp Group
-
 Improve your Customer Journey with a WhatsApp Chat Button. Allow your Customer to contact you with whatsapp and allow your customer to share your Site with WhatsApp
 Mit Quick WhatsApp bindet man schnell ein WhatsApp Chat Button ein und man kann ebenfalls einen WhatsApp Share Button einbinden und die Seite über WhatsApp teilen
+
+= New in Simple Webchat V3.3 =
+NEW: You can set a Shortcode with a Button and a Link to your WhatsApp Group
 
 = Features =
 Folgende Features sind bereits verfügbar
@@ -62,6 +61,8 @@ fertig
 == Upgrade Notice ==
 
 == Changelog ==
+  = v3.3.3 (08/13/2020) =
+  * Update for WordPress 5.5
   = v3.3.2 (02/19/2020) =
   * Chat wie Share Funktion kann man nun Aktivieren / Deaktivieren und gleichzeitig Ausblenden
   = v3.3 (01/10/2020) =

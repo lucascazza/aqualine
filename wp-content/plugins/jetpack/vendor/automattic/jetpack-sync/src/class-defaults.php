@@ -165,6 +165,7 @@ class Defaults {
 		'jetpack_publicize_options',
 		'jetpack_connection_active_plugins',
 		'jetpack_sync_non_blocking', // is non-blocking Jetpack Sync flow enabled.
+		'ce4wp_referred_by', // Creative Mail. See pbtFPC-H5-p2
 	);
 
 	/**
@@ -949,6 +950,7 @@ class Defaults {
 		'jetpack_protect_key',
 		'jetpack_protect_global_whitelist',
 		'active_sitewide_plugins',
+		'auto_update_plugins', // WordPress 5.5+ auto-updates.
 	);
 
 	/**

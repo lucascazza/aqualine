@@ -3,11 +3,11 @@
 Plugin Name: Simple Webchat
 Plugin URI: http://www.chefblogger.me
 Description: Mit Simple Webchat bindet man schnell ein WhatsApp Button ein. Die Administration finden sie unter <a href="options-general.php?page=QWA_quickwhatsapp">Quick WhatsApp Administration</a>
-Version: 3.3.2
+Version: 3.3.3
 Author: Eric-Oliver Mächler
 Author URI: http://www.ericmaechler.com
-Requires at least: 4.0.1
-Tested up to: 5.3
+Requires at least: 3.5
+Tested up to: 5.5
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
