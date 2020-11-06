@@ -25,6 +25,10 @@ Version: 1.0
     box-shadow: none !important;
 }
 
+.orbit-wrapper .slide.orbit-slide.centered .post-title h2{
+    max-width: 700px !important;
+}
+
 .orbit-wrapper .slide.orbit-slide.left .post-title h2 span,
 .orbit-wrapper .slide.orbit-slide.right .post-title h2 span{
     background: rgb(0 113 188 / .5) !important;
