@@ -185,3 +185,16 @@ body #featured article .post-title > a{
     display: flex;
     align-items: center;
 }
+
+.gallery-custom .wpb_gallery_slidesimage_grid .portfolio-wrap .portfolio-items .work-item .work-info {
+    padding: 0 8px !important;
+}
+
+.gallery-custom .wpb_gallery_slidesimage_grid .portfolio-wrap .portfolio-items .work-item .work-info .vert-center p{
+    font-size: 13px !important;
+    line-height: 17px !important;
+}
+
+.gallery-custom .wpb_gallery_slidesimage_grid .portfolio-wrap .portfolio-items .work-item .work-info .vert-center h3{
+    font-size: 19px !important;
+}
