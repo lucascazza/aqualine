@@ -3,11 +3,11 @@
 Plugin Name: Simple Webchat
 Plugin URI: http://www.chefblogger.me
 Description: Mit Simple Webchat bindet man schnell ein WhatsApp Button ein. Die Administration finden sie unter <a href="options-general.php?page=QWA_quickwhatsapp">Quick WhatsApp Administration</a>
-Version: 3.3.3
+Version: 3.3.4
 Author: Eric-Oliver Mächler
 Author URI: http://www.ericmaechler.com
 Requires at least: 3.5
-Tested up to: 5.5
+Tested up to: 5.6
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
@@ -15,7 +15,6 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 include 'conf.php';
 
 $quickwhatsapp_anzeige = get_option('quickwhatsapp');
-$quickwhatsapps_greetings_error = get_option('quickwhatsapps_greetings');
 $quickwhatsappbutton_show = get_option('quickwhatsappbutton');
 $quickwhatsappsharebutton = get_option('quickwhatsappsharebutton');
 $quickwhatsappbutton_style = get_option('quickwhatsappbutton_style');
@@ -23,7 +22,7 @@ $quickwhatsappbutton_style = get_option('quickwhatsappbutton_style');
 $quickwhatsapps_onlineoffline_status = get_option('quickwhatsapps_onlineoffline_status');
 
 //fehlermeldung generieren
-if (($quickwhatsapp_anzeige == '') OR ($quickwhatsapps_greetings_error == ''))
+if ($quickwhatsapp_anzeige == '')
 	{
 	
 				function whatsapp_admin_notice__error() {

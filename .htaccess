@@ -1,9 +1,11 @@
 
 # BEGIN WordPress
-# Las directivas (líneas) entre `BEGIN WordPress` y `END WordPress` se generan dinámicamente, y solo se deberían modificar mediante filtros de WordPress.
-# Cualquier cambio en las directivas que hay entre esos marcadores se sobrescribirá.
+# Las directivas (líneas) entre "BEGIN WordPress" y "END WordPress" son
+# generadas dinámicamente, y solo deberían ser modificadas mediante filtros de WordPress.
+# Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
 <IfModule mod_rewrite.c>
 RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 RewriteBase /aqualine/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f

@@ -2,7 +2,7 @@
 Contributors: Annubis
 Donate link: http://www.chefblogger.me
 Tags: whatsapp, button, share, chat, social media, contact, customer, online shop, woocommerce
-Version: 3.3.3
+Version: 3.3.4
 Requires at least: 4.0.1
 Tested up to: 5.5
 Stable tag: 5.5
@@ -61,6 +61,11 @@ fertig
 == Upgrade Notice ==
 
 == Changelog ==
+  = v3.3.4 (01/23/2021) =
+  * CSS Update
+  * No more Error Msg if you have no greetings-message
+  * Reset button of the greetings message runs again
+  * rollback function activated
   = v3.3.3 (08/13/2020) =
   * Update for WordPress 5.5
   = v3.3.2 (02/19/2020) =

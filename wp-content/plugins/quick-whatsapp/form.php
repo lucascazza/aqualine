@@ -115,7 +115,7 @@ if (isset($_REQUEST['submit_whatsapp_custome_button_reset'])) {
 /*------nonce field reset end ---- */ 
 /*------nonce field reset start ---- */
 	 
-/*
+
 if (isset($_REQUEST['quickwhatsapp_resetgreetings'])) {
   if ( 
     ! isset( $_POST['nonce_resetgreetings'] ) 
@@ -130,7 +130,7 @@ if (isset($_REQUEST['quickwhatsapp_resetgreetings'])) {
 	  //print 'geklappt.';
   			}
 }
-*/
+
 /*------nonce field reset end ---- */ 	  
 
 
@@ -441,7 +441,7 @@ function resetForm_custome_chat_button() {
 /* --------------------------------------------------------------------------------------------------------------------------------------- */ 
 
 /* --------------------------------------------------------------------------------------------------------------------------------------- */ 	
-/*
+
  	//reset
   if (isset($_REQUEST['quickwhatsapp_resetgreetings'])) {
 	  $resetter = '';
@@ -454,7 +454,7 @@ function resetForm_quickwhatsapp_greetings() {
 
   
  }
- */
+ 
 /* --------------------------------------------------------------------------------------------------------------------------------------- */ 
 
 

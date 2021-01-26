@@ -20,7 +20,7 @@ $quickwhatsapps_floating_posi_unten_nach_oben_show = get_option('quickwhatsapps_
 
 /* CSS Document */
 
-.float{
+.simplewebchat_float{
 	position:fixed;
 	width:60px;
 	height:60px;
